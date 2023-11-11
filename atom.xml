@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>普兰特羊的异想世界</title>
+  
+  
+  <link href="https://8522shi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://8522shi.github.io/"/>
+  <updated>2023-11-11T11:55:14.232Z</updated>
+  <id>https://8522shi.github.io/</id>
+  
+  <author>
+    <name>普兰特羊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生活就是要多记录</title>
+    <link href="https://8522shi.github.io/2023/11/11/hello-world/"/>
+    <id>https://8522shi.github.io/2023/11/11/hello-world/</id>
+    <published>2023-11-11T10:12:18.102Z</published>
+    <updated>2023-11-11T11:55:14.232Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="为什么重新开始写作"><a href="#为什么重新开始写作" class="headerlink" title="为什么重新开始写作"></a>为什么重新开始写作</h1><p>不知不觉，已经年过三十。身体和精力感觉都大不如前，越发觉得时光已逝，而之前的生活太过空虚。<br>因此，决定重新开始写个人博客</p><p><img src="/images/1.jpg" alt="玖涯"></p><hr><h2 id="categories-生活"><a href="#categories-生活" class="headerlink" title="categories: 生活"></a>categories: 生活</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;为什么重新开始写作&quot;&gt;&lt;a href=&quot;#为什么重新开始写作&quot; class=&quot;headerlink&quot; title=&quot;为什么重新开始写作&quot;&gt;&lt;/a&gt;为什么重新开始写作&lt;/h1&gt;&lt;p&gt;不知不觉，已经年过三十。身体和精力感觉都大不如前，越发觉得时光已逝，而之前的生活太过</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
